@@ -58,8 +58,6 @@ Accepted values:
 
 ## IDM Activation Script
 
-### Website: [www.shihabskytar.com](https://www.shihabskytar.com) 🔗  
----
 
 Update the README file for GitHub with a modern twist and captivating presentation!
 
